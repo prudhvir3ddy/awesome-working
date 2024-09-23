@@ -1,6 +1,8 @@
 # awesome-working
 Best practices at work for software engineers. 
 
+> These are a list of a wide variety of things you can do. One doc doesn't suit all the cases. So, I'd expect you to make wise choices and not treat it as holy book.
+
 - When you join a company, note down all the difficulties you face during your first month and you can work on tasks which improve the process for the new joinees
 
 - While the business has its sprints and backlogs, You should have your backlog of tech which you planned to work on. Get your ideas reviewed with your peers and work on them with some % of time dedicated to it.
