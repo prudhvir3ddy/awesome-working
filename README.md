@@ -19,6 +19,7 @@ Best practices at work for software engineers.
 
 - There's nothing like over-communication. Keep sharing with the team what you are working on instead of working in silence 
 
+- Do not plan for full time, always plan only for 70% of the time and keep the remaining for your learning to solve company specific problems
 
 ## Cross team collaboration
 
